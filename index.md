@@ -1,3 +1,8 @@
+---
+layout: page
+test_var: test
+---
+
 # Massae hoc comae quoque aequora
 
 ## Fuerunt illa
