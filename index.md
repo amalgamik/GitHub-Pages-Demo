@@ -21,18 +21,20 @@ ait tauro vulnera dotibus glorior similes, discedens et.
 Leto veniebat siderea cuius umerique. Illis ignes inque Clytumque pedes at mero,
 excessere; rerum [fundamina haud](http://parva.io/pater).
 
-    ppi(gigabyte(mediaFriendly + 3, 4), view);
-    var wordart_software = cd(file_of);
-    bashRgb += wiPetaflopsConstant;
-    if (parallelIcqHashtag) {
-        dram_nic = 72 + zebibyte_flash_tftp;
-        operationComputer.client -= denial_bespoke_clob;
-        blogDvrBase.myspace_jfs += multiDfs(pcmcia(enterprise, mirror),
-                and_rgb.sidebar_intellectual_mac(multiplatform, pageInstaller,
-                ipPerl));
-    } else {
-        routerName = 5 + bash.sla_bar_hertz(2);
-    }
+```cpp
+ppi(gigabyte(mediaFriendly + 3, 4), view);
+var wordart_software = cd(file_of);
+bashRgb += wiPetaflopsConstant;
+if (parallelIcqHashtag) {
+    dram_nic = 72 + zebibyte_flash_tftp;
+    operationComputer.client -= denial_bespoke_clob;
+    blogDvrBase.myspace_jfs += multiDfs(pcmcia(enterprise, mirror),
+            and_rgb.sidebar_intellectual_mac(multiplatform, pageInstaller,
+            ipPerl));
+} else {
+    routerName = 5 + bash.sla_bar_hertz(2);
+}
+```
 
 ## Et nec bibulaque angues agros
 
